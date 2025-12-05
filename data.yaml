@@ -1,0 +1,7 @@
+
+train: /kaggle/working/waste-yolo/training
+val: /kaggle/working/waste-yolo/validation
+test: /kaggle/working/waste-yolo/testing
+
+nc: 10
+names: ['brick', 'concrete', 'foam', 'general_w', 'gypsum_board', 'pipes', 'plastic', 'stone', 'tile', 'wood']
